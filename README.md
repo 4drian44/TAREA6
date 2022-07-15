@@ -29,6 +29,35 @@ Una onda triangular o diente de sierra consta de rampas hacia positivo y rampas 
 
 Las frecuencias armónicas son múltiplos impares o pares de la rapidez de repetición de una forma de onda nosinusoidal.
 
+Un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante
+llamado dieléctrico.
+Un capacitor guarda energía en el campo eléctrico presente entre las placas.
+Un farad es la cantidad de capacitancia cuando se guarda un coulomb de carga con un volt entre las placas.
+
+La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separa-
+ción entre placas.
+
+La constante dieléctrica es una indicación de la capacidad de un material para establecer un campo eléctrico.
+La resistencia dieléctrica es un factor que determina el voltaje de ruptura de un capacitor.
+Un capacitor bloquea la cd constante.
+
+La constante de tiempo para un circuito RC dispuesto en serie es la resistencia multiplicada por la capa-
+citancia.
+
+En un circuito RC, al cargar o descargar un capacitor el voltaje y la corriente provocan un 63% de cam-
+io durante cada intervalo de constante de tiempo.
+
+Se requieren cinco constantes de tiempo para que un capacitor se cargue o descargue por completo. Es-
+to se llama tiempo transitorio.
+
+La carga y la descarga siguen curvas exponenciales.
+La capacitancia total en serie es menor que la del capacitor más pequeño dispuesto en serie.
+La capacitancia se suma en paralelo.
+En un capacitor, la corriente va 90° por delante del voltaje.
+La reactancia capacitiva, XC, es inversamente proporcional a la frecuencia y la capacitancia.
+La potencia verdadera en un capacitor es de cero, es decir, no se pierde energía en un capacitor ideal a
+causa de la conversión en calor.
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
@@ -366,7 +395,7 @@ VC6 = VC4 − VC5 = 505 mV − 303 mV = 202 mV
 
 Video
 
-
+https://youtu.be/UeZ5ZbBRUUc
 
 
 Conclusiones
