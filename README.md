@@ -7,56 +7,29 @@ Conocer lo qué son los capacitores, tipos, uso en paralelo, serie, circuitos de
 
 MARCO TEÓRICO (RESUMEN)
 
-La onda seno puede ser una corriente alterna o voltaje alterna, es una forma de onda periódica variable con el tiempo. 
+La forma de onda sinusoidal, es el tipo fundamental de corriente alterna y voltaje alterna. El servicio eléctrico provisto por compañia eléctrica es en forma de voltaje. Periodo de una onda seno es el tiempo requerido par aque una onda seno complete todo un ciclo. La frecuencia es el tiempo requerido para que una onda seno complete todo un ciclo. Tienen relación recíproca f=1/T T=1/f
 
-La corriente alterna cambia de dirección en respuesta a cambios de la polaridad del voltaje de fuente.
+Fuente de voltaje sinusoidal son el generador de corriente alterna y el generador de señales electrónicas.
 
-Un ciclo de una onda seno alterna consta de alternación positiva y alternación negativa.
+Valores sinusoidales de voltaje y corriente, Valor instantáneo es el valor de acuerdo al tiempo, pico valor máximo positivo o negativo respecto a cero, pico pico es el voltaje desde el pico más positivo al más negativo, RMS es una medida del efecto decalentamiento de la onda seno. Valor promedio también.
 
-Dos fuentes comunes de ondas seno son el generador de ca electromagnético y el circuito oscilador electrónico.
+Medición angular, es la médida mediante grados correspondiente a 1/360 de un círculo o revolución completa. Pi representa la relación de circunferencia de cualquier círculo a su diámetro y tiene valor constante de 3.1416. Los ángulos de ondas senos se basan en 360°
 
-Un ciclo completo de una onda seno es de 360° o 2p radianes, un medio ciclo es de 180° o p radianes.
+La fórmula de la onda seno es y=AsenΘ
+cuando se desplaza a ala derecha de la referencia se usa y=Asen(Θ-Φ). Cuando se desplaza a la izquierda usamos  y=Asen(Θ+Φ)
 
-Un cuarto de ciclo es de 90° o p/2 radianes.
+Los fasores son los cuales representan cantidades como magnitud y dirección, son útiles para representar ondas senoen función de su magnitud y su ángulo de fase.  El lado opuesto de un triángulo rectángulo es la hipotenusa por el seno del ángulo teta 
+i=IpsenΘ v=VpsenΘ
 
-Un voltaje sinusoidal puede ser generado por un conductor que gira en un campo magnético.
+Formas de onda no sinuidales son la onda pulsante y la forma de onda triangular, laa formas de onda pulsante son descritas como transición muy rápida de un nivel de corriente, y luego después de un intervalo de tiempo una transición rápida de regreso al nivel de linea dee base original.
 
-El ángulo de fase es la diferencia en grados o radianes entre una onda seno dada y una onda seno de referencia.
+Capacitores. Clasificados de acuerdo al material dieléctrico y si están o no polarizados. Divididos en fijos y variables. Los fijos se dividen en capacitores de mica, cerámica y película plastica. Los variables se usan cuando existe necesidad de ajustar el valor de capacitancia manual o automáticamente. 
 
-La posición angular de un fasor representa el ángulo de la onda seno con respecto a una referencia de 0°, y la longitud o magnitud de un fasor representa la amplitud.
-Un pulso consiste en una transición desde un nivel de línea de base hasta un nivel de amplitud, seguido por una transición de retorno al nivel de línea de base.
-Una onda triangular o diente de sierra consta de rampas hacia positivo y rampas hacia negativo.
+Capacitores en serie, se mide su capacitancia análogo al de resistencia total de resistores en paralelo. El voltajenen capacitores cuando están en serie es inversamente proporcional l valor de capacitancia. V=Q/C 
 
-Las frecuencias armónicas son múltiplos impares o pares de la rapidez de repetición de una forma de onda nosinusoidal.
+Cuando están en paralelo la capacitancia total es la suma de capacitancias  individuales. por que el area de placas incrementa CT=C1+C2+C3+C4...+Cn
 
-Un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante
-llamado dieléctrico.
-Un capacitor guarda energía en el campo eléctrico presente entre las placas.
-Un farad es la cantidad de capacitancia cuando se guarda un coulomb de carga con un volt entre las placas.
-
-La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separa-
-ción entre placas.
-
-La constante dieléctrica es una indicación de la capacidad de un material para establecer un campo eléctrico.
-La resistencia dieléctrica es un factor que determina el voltaje de ruptura de un capacitor.
-Un capacitor bloquea la cd constante.
-
-La constante de tiempo para un circuito RC dispuesto en serie es la resistencia multiplicada por la capa-
-citancia.
-
-En un circuito RC, al cargar o descargar un capacitor el voltaje y la corriente provocan un 63% de cam-
-io durante cada intervalo de constante de tiempo.
-
-Se requieren cinco constantes de tiempo para que un capacitor se cargue o descargue por completo. Es-
-to se llama tiempo transitorio.
-
-La carga y la descarga siguen curvas exponenciales.
-La capacitancia total en serie es menor que la del capacitor más pequeño dispuesto en serie.
-La capacitancia se suma en paralelo.
-En un capacitor, la corriente va 90° por delante del voltaje.
-La reactancia capacitiva, XC, es inversamente proporcional a la frecuencia y la capacitancia.
-La potencia verdadera en un capacitor es de cero, es decir, no se pierde energía en un capacitor ideal a
-causa de la conversión en calor.
+Capacitores en circuitos de CA la corriente instantánea en el capacitor es igual a la capacitancia multiplicada por la razón de cambio isntantánea del voltaje presente en terminales del capacitor.
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -177,7 +150,7 @@ v = (15 V) sin (300° − 30°) = −15 V
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 
 (a) Irms = 0.707(VP/R)=0.707(10V/1.0KOHMS)=7.07 mA
-(b) IAVG = 0 A over a full cycle.
+(b) IAVG = 0 
 (c) Ip =10/3.0KOHMS
 = 10 mA
 (d) Ipp = 2(10 mA) = 20 mA
